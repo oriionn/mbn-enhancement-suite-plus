@@ -6,9 +6,9 @@
 // @run-at         document-idle
 // @author         oriionn (Forked from NonozgYtb)
 // @icon           https://cdn.monbureaunumerique.fr/images/favicon.ico
-// @downloadURL    https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-enhancement-suite.js
-// @updateURL      https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-enhancement-suite.js
-// @version        1.3
+// @downloadURL    https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-enhancement-suite-plus.js
+// @updateURL      https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-enhancement-suite-plus.js
+// @version        1.4
 // ==/UserScript==
 
 const evalInHome = true;
@@ -222,6 +222,6 @@ function waitForElm(selector) {
 
     if (consoleClear) {
         console.clear();
-        console.log("%cMonBureauNumérique Enhancement Suite ️Plus\n%cSuite d'ajouts MonBureauNumérique%c\nAjoute des fonctions utiles à MonBureauNumérique (ENT Grand-Est)\nVersion: %c1.3%c\nActivation: %c" + (!url.includes("moodle") && !url.includes("moodle")).toString() + "%c\n\nSource: https://github.com/oriionn/mbn-enhancement-suite-plus\nForked from https://github.com/NonozgYtb/mbn-enhancement-suite\n", "font-size: 25px; font-family: Arial;font-weight: bold;", "font-size: 18px; font-family: Arial;font-weight: bold; padding: 10px 0;", "color: #aaa", "color: #009378", "color: #aaa", "color: #009378", "color: #aaa")
+        console.log("%cMonBureauNumérique Enhancement Suite ️Plus\n%cSuite d'ajouts MonBureauNumérique%c\nAjoute des fonctions utiles à MonBureauNumérique (ENT Grand-Est)\nVersion: %c1.4%c\nActivation: %c" + (!url.includes("moodle") && !url.includes("moodle")).toString() + "%c\n\nSource: https://github.com/oriionn/mbn-enhancement-suite-plus\nForked from https://github.com/NonozgYtb/mbn-enhancement-suite\n", "font-size: 25px; font-family: Arial;font-weight: bold;", "font-size: 18px; font-family: Arial;font-weight: bold; padding: 10px 0;", "color: #aaa", "color: #009378", "color: #aaa", "color: #009378", "color: #aaa")
     }
 })();
