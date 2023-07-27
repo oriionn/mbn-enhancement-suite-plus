@@ -1,4 +1,4 @@
-MBN Enhancement Suite / Suite d'ajouts MonBureauNumérique
+MBN Enhancement Suite Plus / Suite d'ajouts MonBureauNumérique Plus
 ========================
 
 ## Français/French ##
@@ -20,7 +20,7 @@ Ce script permet d'ajouter des fonctionnalités à MBN, l'ENT *(Environement Num
     * ***OPERA***: Regarder les instructions spécifiques pour Opéra: [Opéra User JS](http://www.opera.com/docs/userjs/).
     * ***SAFARI***: Installer [NinjaKit](http://d.hatena.ne.jp/os0x/20100612/1276330696).
 
-2. Installer la **Suite d'ajouts MonBureauNumérique** via le [lien de téléchargement du script](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-enhancement-suite-plus.js).
+2. Installer la **MBN Enhancement Suite Plus** via le [lien de téléchargement du script](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-enhancement-suite-plus.js).
 Vous pouvez aussi prendre l'une des 2 parties actuelle du script.
 * Partie Moyenne dans la page Evaluation : [Téléchargement ici](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-average-part.js)
 * Partie Section dans la page d'Accueil : [Téléchargement ici](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-eval-in-home-part.js)
