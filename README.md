@@ -8,6 +8,7 @@ MBN Enhancement Suite / Suite d'ajouts MonBureauNumérique
 Ce script permet d'ajouter des fonctionnalités à MBN, l'ENT *(Environement Numérique de Travail)* du Grand-Est.
 * Il met une section Evaluations dans la page d'accueil personnel.
 * Il rajoute une ligne Moyenne dans le tableau des notes dans la page Evaluation.
+* Il permet d'être à la prochaine semaine quand on est en Week-End.
 * Il nettoie *(clear)* également également la console.
 
 ### Installation ###
@@ -22,7 +23,8 @@ Ce script permet d'ajouter des fonctionnalités à MBN, l'ENT *(Environement Num
 2. Installer la **Suite d'ajouts MonBureauNumérique** via le [lien de téléchargement du script](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-enhancement-suite.js).
 Vous pouvez aussi prendre l'une des 2 parties actuelle du script.
 * Partie Moyenne dans la page Evaluation : [Téléchargement ici](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-average-part.js)
-* Partie Section dans la page d'Accueil : [Téléchargement la](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-eval-in-home-part.js)
+* Partie Section dans la page d'Accueil : [Téléchargement ici](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-eval-in-home-part.js)
+* Partie Week-End : [Téléchargement ici]()
 
 ### Utilisation ###
 
@@ -39,6 +41,7 @@ Vous pouvez activer ou non des parties des script via les constantes *(const)* �
 This script allows you to add functionalities to MBN, the ENT *(Digital Work Environment)* of the Grand-Est region (in France).
 * It puts a Ratings section in the personal home page.
 * It adds an Average line in the table of marks in the Evaluation page.
+* It allows you to get to the next week when you're away for the weekend.
 * It also *(clear)* cleans the console.
 
 ### Installation ###
@@ -53,13 +56,12 @@ This script allows you to add functionalities to MBN, the ENT *(Digital Work Env
 2. Install the **MBN Enhancement Suite** via the [script download link](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-enhancement-suite.js ).
 You can also take one of the 2 current parts of the script.
 * Part Average in Rating page: [Download here](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-average-part.js)
-* Part Section in the Home page: [Download there](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-eval-in-home-part.js)
+* Part Section in the Home page: [Download here](https://github.com/NonozgYtb/mbn-enhancement-suite/blob/master/mbn-eval-in-home-part.js)
+* Part Week-End : [Download here]()
 
 ### Use ###
 
 All you need to do is check the activation of the extension and the **MBN Enhancement Suite** (or one of the parts of the script) and you just have to go to MonBureauNumerique for it to work.
-
-
 You can activate or not parts of the script via the constants *(const)* to be set to **false** if you want to deactivate the module and to **true** for the opposite behavior.
 
-*By* ***NonozgYtb*** */ Copyright 2020*
+*By* ***oriionn*** / [Original Repo](https://github.com/NonozgYtb/mbn-enhancement-suite)
