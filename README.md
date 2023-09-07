@@ -26,13 +26,17 @@ Vous pouvez aussi prendre l'une des 2 parties actuelle du script.
 * Partie Section dans la page d'Accueil : [Téléchargement ici](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-eval-in-home-part.js)
 * Partie Week-End : [Téléchargement ici](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-planning-jump-to-next-week.js)
 
+### Crédits ### 
+Theme (avec quelques modifications) par [lolocomotive](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+Dépot original par [NonozgYtb](https://github.com/NonozgYtb/mbn-enhancement-suite)
+
 ### Utilisation ###
 
 Il vous suffit de vérifier l'activation de l'extension et de la **Suite d'ajouts MonBureauNumérique** (ou de l'une des parties du script) et il vous suffit de se rendre sur MonBureauNumérique pour qu'il fonctionne.
 
 Vous pouvez activer ou non des parties des script via les constantes *(const)* à mettre sur **false** si vous voulez désactiver le module et sur **true** pour le comportement inverse.
 
-*By* ***NonozgYtb*** */ Copyright 2020*
+*By* ***oriionn*** / Forked from [Original Repo](https://github.com/NonozgYtb/mbn-enhancement-suite)
 
 ## Anglais/English ##
 
@@ -59,9 +63,13 @@ You can also take one of the 2 current parts of the script.
 * Part Section in the Home page: [Download here](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-eval-in-home-part.js)
 * Part Week-End : [Download here](https://raw.githubusercontent.com/oriionn/mbn-enhancement-suite-plus/master/mbn-planning-jump-to-next-week.js)
 
+### Credits ###
+Theme (with some modifications) by [lolocomotive](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+Original repo by [NonozgYtb](https://github.com/NonozgYtb/mbn-enhancement-suite)
+
 ### Use ###
 
 All you need to do is check the activation of the extension and the **MBN Enhancement Suite** (or one of the parts of the script) and you just have to go to MonBureauNumerique for it to work.
 You can activate or not parts of the script via the constants *(const)* to be set to **false** if you want to deactivate the module and to **true** for the opposite behavior.
 
-*By* ***oriionn*** / [Original Repo](https://github.com/NonozgYtb/mbn-enhancement-suite)
+*By* ***oriionn*** / Forked from [Original Repo](https://github.com/NonozgYtb/mbn-enhancement-suite)
