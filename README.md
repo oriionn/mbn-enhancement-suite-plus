@@ -28,6 +28,8 @@ Vous pouvez aussi prendre l'une des 2 parties actuelle du script.
 
 ### Crédits ### 
 Theme (avec quelques modifications) par [lolocomotive](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+[![Theme Card](https://github-readme-stats.vercel.app/api/gist?id=7e202b6674a27e77cbae3230f8eadd0d&theme=dark&hide_border=false)](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+
 Dépot original par [NonozgYtb](https://github.com/NonozgYtb/mbn-enhancement-suite)
 
 ### Utilisation ###
@@ -36,7 +38,7 @@ Il vous suffit de vérifier l'activation de l'extension et de la **Suite d'ajout
 
 Vous pouvez activer ou non des parties des script via les constantes *(const)* à mettre sur **false** si vous voulez désactiver le module et sur **true** pour le comportement inverse.
 
-*By* ***oriionn*** / Forked from [Original Repo](https://github.com/NonozgYtb/mbn-enhancement-suite)
+*Par* ***oriionn*** / Fork de [Original Repo](https://github.com/NonozgYtb/mbn-enhancement-suite)
 
 ## Anglais/English ##
 
@@ -65,7 +67,8 @@ You can also take one of the 2 current parts of the script.
 
 ### Credits ###
 Theme (with some modifications) by [lolocomotive](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
-<script src="https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d.js"></script>
+[![Theme Card](https://github-readme-stats.vercel.app/api/gist?id=7e202b6674a27e77cbae3230f8eadd0d&theme=dark&hide_border=false)](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+
 Original repo by [NonozgYtb](https://github.com/NonozgYtb/mbn-enhancement-suite)
 
 ### Use ###
