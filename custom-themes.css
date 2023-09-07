@@ -1,3 +1,11 @@
 html, body {
     background: #000;
 }
+
+h2.h5-like {
+    color: #fff;
+}
+
+.panel.panel--outlined {
+    background: #16181C;
+}
