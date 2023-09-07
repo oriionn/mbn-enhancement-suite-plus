@@ -28,6 +28,7 @@ Vous pouvez aussi prendre l'une des 2 parties actuelle du script.
 
 ### Crédits ### 
 Theme (avec quelques modifications) par [lolocomotive](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+
 [![Theme Card](https://github-readme-stats.vercel.app/api/gist?id=7e202b6674a27e77cbae3230f8eadd0d&theme=dark&hide_border=false)](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
 
 Dépot original par [NonozgYtb](https://github.com/NonozgYtb/mbn-enhancement-suite)
@@ -67,6 +68,7 @@ You can also take one of the 2 current parts of the script.
 
 ### Credits ###
 Theme (with some modifications) by [lolocomotive](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+
 [![Theme Card](https://github-readme-stats.vercel.app/api/gist?id=7e202b6674a27e77cbae3230f8eadd0d&theme=dark&hide_border=false)](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
 
 Original repo by [NonozgYtb](https://github.com/NonozgYtb/mbn-enhancement-suite)
