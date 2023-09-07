@@ -65,6 +65,7 @@ You can also take one of the 2 current parts of the script.
 
 ### Credits ###
 Theme (with some modifications) by [lolocomotive](https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d)
+<script src="https://gist.github.com/lolocomotive/7e202b6674a27e77cbae3230f8eadd0d.js"></script>
 Original repo by [NonozgYtb](https://github.com/NonozgYtb/mbn-enhancement-suite)
 
 ### Use ###
